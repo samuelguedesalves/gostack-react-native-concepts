@@ -34,7 +34,6 @@ export default function App() {
       setRepositories(newRepositoriesListage);
       setReRendering(true);
       
-      console.log(repositories);
     } );
   }
 
